@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @veronicaAoko
-- 👀 I’m interested in front end web development
-- 🌱 I’m currently learning Front and back end web development
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning UX Design and Research
 - 💞️ I’m looking to collaborate on web design and development projects
 - 📫 How to reach me veroaok@gmail.com
 
